@@ -1,0 +1,11 @@
+review,date,sentiment,confidence
+Great product! Fast delivery and excellent quality.,2024-01-01,POSITIVE,0.9998828172683716
+Disappointed with customer service response time.,2024-01-11,NEGATIVE,0.999779999256134
+Product arrived damaged but refund was quick.,2024-01-21,NEGATIVE,0.9949518442153931
+"Amazing features, exactly what I needed for work.",2024-01-31,POSITIVE,0.9998873472213745
+Price is too high compared to competitors.,2024-02-10,NEGATIVE,0.9988865256309509
+"Excellent value for money, highly recommend!",2024-02-20,POSITIVE,0.9998753070831299
+"Product quality is poor, not worth the price.",2024-03-01,NEGATIVE,0.9998134970664978
+Customer support was very helpful and responsive.,2024-03-11,POSITIVE,0.9996635913848877
+Shipping took forever but product is decent.,2024-03-21,POSITIVE,0.9993233680725098
+Best purchase I've made this year!,2024-03-31,POSITIVE,0.9997255206108093
