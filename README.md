@@ -49,14 +49,14 @@ This will:
 5. Generate AI insights and summary
 6. Create and save visualizations
 
-## 📊 Output Files
+## Output Files
 
 - `ai_analysis_dashboard.png` - Visual dashboard with 4 key charts
 - `sales_analysis.csv` - Processed sales data with anomaly flags
 - `sentiment_results.csv` - Reviews with AI sentiment scores
 - `classified_reviews.csv` - Reviews categorized by topic
 
-## 🎓 Key Features for Data Analysts
+## Features
 
 ### 1. **Sentiment Analysis**
 ```python
