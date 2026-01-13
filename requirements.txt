@@ -1,0 +1,8 @@
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Run the main analysis script
+python ai_data_analyst.py
+
+# 3. Launch interactive dashboard
+streamlit run app.py
